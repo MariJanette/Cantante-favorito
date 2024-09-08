@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 13px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: orchid;
+    background-image: url(https://st4.depositphotos.com/23035388/24573/i/450/depositphotos_245731568-stock-illustration-abstract-violet-watercolor-background-decorative.jpg);
+    background-repeat: repeat;
+    background-size: 100%;
+}
+p{
+    text-align: justify;
+    font-family: "Sevillana", cursive;
+    font-size: 30px;
+    background-color:#dd33ff;
+    border: 2px dotted;
+}
+
+a{
+    text-decoration: yellow;
+    cursor: pointer;
+}
+
+header{
+    width: 100%;
+    height: 70%;
+}
+
+header nav{
+    display: flex;
+    justify-content: last baseline;
+}
+
+main{
+    margin-top: 130%;
+    text-align: left;
+}
+
+ul{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: deeppink;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Instagram.png{
+    width: 300px;
+    height: 300px;
+    border-radius: 700px;
+}
+
+.Facebook.png{
+    width: 300px;
+    height: 300px;
+    border-radius: 700px;
+}
+
+.album Katy Perry.png{
+    width: 300px;
+    height: 300px;
+    border-radius: 700px;
+}
